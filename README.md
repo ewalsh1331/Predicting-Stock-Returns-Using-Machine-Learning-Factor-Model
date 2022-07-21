@@ -16,6 +16,7 @@ decisions. (Link to the original reserach paper: https://arxiv.org/abs/1705.0787
 
 
 1. Preparing the Model Data
+
 This file deals with data ingestion, data cleaning, data formatting and factor creation. Unfrotunately, the
 data used for this project is not available for public use, but some techniques here are usefull and provide
 understanding to the rest of the model. 
